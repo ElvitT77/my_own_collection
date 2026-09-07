@@ -1,0 +1,5 @@
+---
+my_own_module_path: /tmp/my_own_module_from_role.txt
+
+my_own_module_content: |
+  This file was created by my_own_role from my Ansible collection.

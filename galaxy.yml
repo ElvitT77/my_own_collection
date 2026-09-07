@@ -1,0 +1,27 @@
+---
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+
+readme: README.md
+
+authors:
+  - elvitt
+
+description: Educational Ansible collection with custom module and role
+
+license:
+  - GPL-3.0-or-later
+
+tags:
+  - ansible
+  - module
+  - collection
+  - netology
+
+dependencies: {}
+
+repository: https://github.com/ElvitT77/my_own_collection
+documentation: https://github.com/ElvitT77/my_own_collection
+homepage: https://github.com/ElvitT77/my_own_collection
+issues: https://github.com/ElvitT77/my_own_collection/issues
